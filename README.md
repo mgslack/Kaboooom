@@ -6,6 +6,10 @@ April 1990.  Code originally converted to Turbo Pascal on 1990-03-18, then
 converted again to OS/2 Sibyl (Delphi-like Object Pascal) 1997-07-26.
 Completed rewrite into C# on 2021-11-01.
 
+For comparison purposes (and historical laughs), added the original TP
+code from 1990 to project (Kaboooom_Orig_TP_Code.zip).  Can play that
+version using DoxBox.
+
 Game includes a built in evaluation process that, is ok, if started from a
 position that is pretty open (0 mines around current position).  Also can
 be played via keyboard or mouse.
